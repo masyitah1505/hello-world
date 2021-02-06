@@ -1,7 +1,7 @@
-#include <iostream>
+#include <stdio.h>
 
-int main 
+int main ()
 {
-	print ("Hello Leesa. This is me Masyi.");
+	printf ("Hello Leesa. This is me Masyi.");
 	return 0;
 }
